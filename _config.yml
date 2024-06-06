@@ -1,6 +1,26 @@
 title: Breaking barriers: How text-to-speech and speech-to-text technologies can help you create accessible videos
 description: Accessibility guide for beginner video creators
 theme: just-the-docs
-url: https://AnnKruQA.github.io/Breaking-barriers-accessible-videos
+url: https://AnnaKrukowska/Breaking-barriers-accessible-videos
 aux_links:
   Template Repository: https://github.com/AnnKruQA/Breaking-barriers-accessible-videos
+
+#Logo
+logo: "/links/DOQATECH_logo.png"
+
+#Favicon
+favicon_ico: "/links/DOQATECh_favicon.png"
+
+callouts_level: quiet
+
+callouts:
+  note:
+    title: NOTE
+    color: blue
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright 2024 Anna Krukowska. Distributed under the <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a>"
+  
