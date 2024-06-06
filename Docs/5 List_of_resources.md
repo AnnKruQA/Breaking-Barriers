@@ -1,8 +1,5 @@
 # 5. List of resources
 
-Owner: Anna Krukowska
-Created time: June 6, 2024 10:07 PM
-
 **Websites**
 
 1. [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/)

@@ -1,8 +1,5 @@
 # 3. Speech-to-text and text-to-speech
 
-Owner: Anna Krukowska
-Created time: June 6, 2024 10:07 PM
-
 When you embrace the power of converting speech and text, you support assistive technology, language accessibility, individuals experiencing disabilities, and people with temporary or situational lack of access to content. You ensure a more accessible, inclusive, and enjoyable video experience for everyone.
 
 - Make your videos accessible to viewers who are deaf or prefer reading by automatically converting spoken language into text.

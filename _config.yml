@@ -6,10 +6,10 @@ aux_links:
   Template Repository: https://github.com/AnnKruQA/BreakingBarriersAccessibleVideos
 
 #Logo
-logo: "/links/DOQATECH_logo.png"
+logo: "/images/DOQATECH_logo.png"
 
 #Favicon
-favicon_ico: "/links/DOQATECh_favicon.png"
+favicon_ico: "/images/DOQATECh_favicon.png"
 
 callouts_level: quiet
 
