@@ -1,6 +1,9 @@
 # 7. Glossary
 
+<<<<<<< HEAD:Docs/7 Glossary.md
 
+=======
+>>>>>>> ac6dad8cd8e435f57c44edab0fe5277b5dd24909:7 Glossary.md
 A
 
 - **Alternative Text** (Alt Text) ****– a brief description of an image that is displayed if the image cannot be loaded or for screen reader users.
