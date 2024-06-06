@@ -3,11 +3,11 @@
 
 Topics covered in the guide are as follows:
 <ol>
-<li> WCAG Perceivable time-based media </li>
-<li>  WCAG Sensory characteristics </li>
+<li> WCAG perceivable time-based media criteria </li>
+<li> WCAG sensory characteristics </li>
 <li> WCAG-compliant videos </li>
 <li> Speech-to-text technology best practices </li>
 <li> Text-to-speech technology best practice </li>
 <li> TTS and SST Tools </li>
-<li> Making accessible videos guidelines </li>
+<li> Making accessible videos </li>
 <li> A step-by-step guide for beginners </li>
