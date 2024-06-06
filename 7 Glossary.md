@@ -1,8 +1,5 @@
 # 7. Glossary
 
-Owner: Anna Krukowska
-Created time: June 6, 2024 10:07 PM
-
 A
 
 - **Alternative Text** (Alt Text) ****– a brief description of an image that is displayed if the image cannot be loaded or for screen reader users.
