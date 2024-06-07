@@ -1,3 +1,8 @@
+title: Speech-to-text and text-to-speech 
+layout: default 
+has_children: true
+nav_order: 4
+
 # 3. Speech-to-text and text-to-speech
 
 When you embrace the power of converting speech and text, you support assistive technology, language accessibility, individuals experiencing disabilities, and people with temporary or situational lack of access to content. You ensure a more accessible, inclusive, and enjoyable video experience for everyone.
