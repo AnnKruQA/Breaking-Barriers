@@ -1,3 +1,8 @@
+title:List of resources
+layout: default
+has_children: false
+nav_order: 6
+
 # 5. List of resources
 
 **Websites**
