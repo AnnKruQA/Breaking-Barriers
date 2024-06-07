@@ -11,7 +11,9 @@ Picture yourself in a world with video-only content without any text or audio.
 - Imagine browsing through your favourite smartphone blog for the latest reviews and finding no text _—_ just muted advertisements. Would you be willing to purchase a product without first hearing or reading about how its new features might improve or complicate people's lives?
 - Imagine browsing through your favourite smartphone blog for the latest reviews and finding no text *—* just muted advertisements. Would you be willing to purchase a product without first hearing or reading about how its new features might improve or complicate people's lives?
 
-![A playlist of three videos on YouTube platform with blurred text](YouTube_playlist_without_text.jpg)
+![A playlist of three videos on YouTube platform with blurred text](YouTube_playlist_without_text.png)
+
+<img src="../Images/YouTube_playlist_without_text.png" alt="A playlist of three videos on YouTube platform with blurred text" width="100%">
 
 The human world is mostly shaped by words. It is beneficial to ensure that the spoken language is provided and the written text is correctly displayed.
 
