@@ -1,12 +1,9 @@
 title:  Introduction
 layout: default
 nav_order: 1
+
 # Introduction
 
-<<<<<<< HEAD:Docs/Introduction.md
-=======
-
->>>>>>> ac6dad8cd8e435f57c44edab0fe5277b5dd24909:Introduction.md
 Picture yourself in a world with video-only content without any text or audio.
 
 - Imagine browsing a streaming platform like Netflix or any YouTube channel. There are videos without titles, tags, descriptions, or links. How would you decide what to watch based on just a few images of animations?
