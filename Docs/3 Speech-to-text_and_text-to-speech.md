@@ -11,6 +11,7 @@ When you embrace the power of converting speech and text, you support assistive 
 - Engage viewers who are blind or can’t read by offering an audio description of your video content.
 - Expand your audience by making your videos accessible to non-native speakers who might benefit from text in their language.
 
+
 You can convert spoken language into the following written texts:
 
 1. **Captions** provide synchronized text for dialogue or other kinds of spoken content. Captions make your videos inclusive and welcoming, especially for deaf and hard-of-hearing viewers. They ensure that your content is accessible in any situation, catering to those in noisy environments or who watch videos with the sound off.
@@ -19,9 +20,10 @@ You can convert spoken language into the following written texts:
 
 This is an example of transcription and captions in English for a lesson from the [Creating Accessible and Inclusive Video course](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video) on LinkedIn.
 
-FOTO 3
+<img src="../Images/Video_lesson_with_transcription_captions_subtitles.
+.png" alt="There are a huge computer screen in the center and a small box with a sentence in English below. Underneath there is a white box with a long text in English. On the right, there is a bigger box of languages where English is selected. " width="100">
 
-ALT: There are a huge computer screen in the center and a small box with a sentence in English below. Underneath there is a white box with a long text in English. On the right, there is a bigger box of languages where English is selected.
+
 
 You can transform visual elements and actions into spoken language to provide valuable context for your users.
 
@@ -29,12 +31,11 @@ You can transform visual elements and actions into spoken language to provide va
 
 This is an example of audio description and subtitles.
 
-FOTO 4
+<img src="../Images/Netflix_audio_and_subtitles_settings.png" alt="A black box contains names of different languages. These are Netflix settings for audio and subtitles. The box contains English selected as original audio, available audio description in English, and synchronized text in English." width="100%">
 
-ALT: A black box contains names of different languages. These are Netflix settings for audio and subtitles. The box contains English selected as original audio, available audio description in English, and synchronized text in English.
+
 
 You can listen to [Audio Description Examples](https://www.youtube.com/watch?v=Z7jaVpy-1N0) by Heather Foster.
 
-FOTO 5
+<img src="../Images/Video_with_examples_of_audio_description.png" alt="A small girl and a dog are looking outside the window during the day" width="100%">
 
-ALT: A small girl and a dog are looking outside the window during the day.
