@@ -22,7 +22,7 @@ You can convert spoken language into the following written texts:
 
 This is an example of transcription and captions in English for a lesson from the [Creating Accessible and Inclusive Video course](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video) on LinkedIn.
 
-<img src="../Images/Video_lesson_with_transcription_captions_subtitles.png" alt="There are a huge computer screen in the center and a small box with a sentence in English below. Underneath there is a white box with a long text in English. On the right, there is a bigger box of languages where English is selected. " width="85">
+<img src="../Images/Video_lesson_with_transcription_captions_subtitles.png" alt="There are a huge computer screen in the center and a small box with a sentence in English below. Underneath there is a white box with a long text in English. On the right, there is a bigger box of languages where English is selected. " width="85%">
 
 
 
