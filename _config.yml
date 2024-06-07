@@ -5,18 +5,9 @@ url: https://AnnaKrukowska/BreakingBarriersAccessibleVideos
 aux_links:
   Template Repository: https://github.com/AnnKruQA/BreakingBarriersAccessibleVideos
 
-#Logo
-logo: "/images/DOQATECH_logo.png"
 
 #Favicon
-favicon_ico: "/images/DOQATECh_favicon.png"
-
-callouts_level: quiet
-
-callouts:
-  note:
-    title: NOTE
-    color: blue
+favicon_ico: "/Images/DOQATECh_favicon.png"
 
 # Back to top link
 back_to_top: true
