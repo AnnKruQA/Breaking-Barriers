@@ -1,4 +1,8 @@
-Resources for further learning
+title: Glossary 
+layout: default 
+has_children: false 
+nav_order: 8
+
 # 7. Glossary
 
 A
